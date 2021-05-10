@@ -1,6 +1,0 @@
-1. Wybranie GUI
-2. Implementacja skryptu do GUI
-3. Wyszukiwanie w czasie rzeczywistym (wyszukiwanie od razu po wpisaniu pierwszej literki)
-4. Poszerzenie bazy danych do kategorii gier/dlc
-5. Dodanie kolejnych sklepów (NIE SKLEPÓW Z KLUCZAMI)
-6. Eksport do APP, a potem APK
